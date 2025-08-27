@@ -5,8 +5,6 @@ Me considero principiante, pero me encanta aprender cada día y recibir consejos
 
 📚 Mis pasiones incluyen escribir, los mangas y adquirir conocimiento en diversas áreas.  
 
-🌱 Actualmente me preparo para estudiar en el área de la salud y mejorar mis habilidades paso a paso.  
-
 ✨ Creo que todos podemos aprender, y disfruto crecer con el apoyo y la guía de los demás.  
 
 ### 🚀 Tecnologías e intereses
@@ -26,8 +24,6 @@ Me considero principiante, pero me encanta aprender cada día y recibir consejos
 I consider myself a beginner, but I love learning every day and receiving advice from more experienced people.  
 
 📚 My passions include writing, manga, and gaining knowledge in many areas.  
-
-🌱 Currently, I'm preparing for studies in the health field and improving my skills step by step.  
 
 ✨ I believe anyone can learn, and I enjoy growing with the support and guidance of others.  
 
