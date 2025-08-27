@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola, soy Cristian
 
-<!--
-**cristhian-zaragoza/cristhian-zaragoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estoy aprendiendo programación y tecnología. Sé lo básico de Python, y estoy empezando a usar Linux como mi sistema principal. Git y GitHub los estoy explorando recién. 
+Me considero principiante, pero me encanta aprender cada día y recibir consejos de quienes tienen más experiencia.  
 
-Here are some ideas to get you started:
+📚 Mis pasiones incluyen escribir, los mangas y adquirir conocimiento en diversas áreas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente me preparo para estudiar en el área de la salud y mejorar mis habilidades paso a paso.  
+
+✨ Creo que todos podemos aprender, y disfruto crecer con el apoyo y la guía de los demás.  
+
+### 🚀 Tecnologías e intereses
+- Python (básico)  
+- Linux (aprendiendo en el día a día)  
+- Git & GitHub (recién explorando)  
+- Aprendiendo cosas nuevas cada día  
+
+### 📫 Contacto
+- Email: cristhianzaragoza520@gmail.com
+
+---
+
+# 👋 Hi, I'm Cristian
+
+💻 I'm learning programming and technology. I know the basics of Python, and I'm starting to use Linux as my main system. I'm just beginning to explore Git and GitHub. 
+I consider myself a beginner, but I love learning every day and receiving advice from more experienced people.  
+
+📚 My passions include writing, manga, and gaining knowledge in many areas.  
+
+🌱 Currently, I'm preparing for studies in the health field and improving my skills step by step.  
+
+✨ I believe anyone can learn, and I enjoy growing with the support and guidance of others.  
+
+### 🚀 Tech & Interests
+- Python (basic)  
+- Linux (learning day by day)  
+- Git & GitHub (just exploring)  
+- Learning new things every day  
+
+### 📫 Contact
+- Email: cristhianzaragoza520@gmail.com
